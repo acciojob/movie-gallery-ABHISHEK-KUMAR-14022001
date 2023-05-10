@@ -1,2 +1,7 @@
-
-/* Your CSS Code here. */
+.row{
+	display:grid;   
+}
+.container-fluid{
+	display:grid; 
+}
+   
